@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MiningTimeOut
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.0.1
 // @description  try to take over the world!
 // @author       turin#8657 discord
 // @match        http://localhost:6336/
