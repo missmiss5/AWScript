@@ -12,10 +12,7 @@
 // @grant        none
 // ==/UserScript==
 
-function usestrict() {
-  'use strict';
-
-  var _0x40b8 = [
+var _0x40b8 = [
     "\x20[\x20RAM\x20]\x20:\x20",
     "error",
     "152958wZWHAv",
@@ -315,5 +312,3 @@ function sleep(_0xb76966) {
             setTimeout((_0x532193) => _0x5149a7(), _0x4b9f52)
         ));
 }
-}
-usestrict();
