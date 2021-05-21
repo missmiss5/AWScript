@@ -12,10 +12,7 @@
 // @grant        none
 // ==/UserScript==
 
-(function() {
-    'use strict';
-
-    var _0x40b8 = [
+var _0x40b8 = [
     "\x20[\x20RAM\x20]\x20:\x20",
     "error",
     "152958wZWHAv",
@@ -88,6 +85,7 @@
     "Content-Type",
 ];
 (function(_0x2c89b2, _0x352f02) {
+    'use strict';
     var _0x4eece2 = _0x1f4c;
     while (!![]) {
         try {
@@ -315,4 +313,3 @@ function sleep(_0xb76966) {
             setTimeout((_0x532193) => _0x5149a7(), _0x4b9f52)
         ));
 }
-})();
