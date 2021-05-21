@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         MiningTimeOut
 // @namespace    https://gist.github.com/missmiss5
-// @homepage     https://gist.github.com/missmiss5/8032ac4d84d6496c62dde0cb0b7ab492
-// @downloadURL  https://gist.githubusercontent.com/missmiss5/8032ac4d84d6496c62dde0cb0b7ab492/raw/facf8db8c16f206d33506e56aca08f186766f847/MiningTimeOut.js
-// @updateURL    https://gist.githubusercontent.com/missmiss5/8032ac4d84d6496c62dde0cb0b7ab492/raw/facf8db8c16f206d33506e56aca08f186766f847/MiningTimeOut.js
+// @homepage     https://github.com/missmiss5/AWScript
+// @downloadURL  https://raw.githubusercontent.com/missmiss5/AWScript/main/MiningTimeOut.js
+// @updateURL    https://raw.githubusercontent.com/missmiss5/AWScript/main/MiningTimeOut.js
 // @version      0.2
 // @description  try to take over the world!
 // @author       turin#8657
