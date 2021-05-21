@@ -4,10 +4,12 @@
 // @homepage     https://github.com/missmiss5/AWScript
 // @downloadURL  https://github.com/missmiss5/AWScript/raw/main/BDMextenCPU.user.js
 // @updateURL    https://github.com/missmiss5/AWScript/raw/main/BDMextenCPU.user.js
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @author       turin#8657
 // @match        http://localhost:6336/
+// @match        https://all-access.wax.io/cloud-wallet/signing/
+// @match        https://all-access.wax.io/cloud-wallet/login/
 // @icon         https://img-premium.flaticon.com/png/512/1839/1839000.png?token=exp=1621404256~hmac=cb453e629dc4316af7103ea360ade6c1
 // @grant        none
 // ==/UserScript==
