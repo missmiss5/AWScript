@@ -15,6 +15,6 @@
 
 (function() {
     'use strict';
-
+    TEST;
     
 })();
