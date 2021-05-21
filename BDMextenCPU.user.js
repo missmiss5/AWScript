@@ -12,6 +12,7 @@
 // @grant        none
 // ==/UserScript==
 
+
 var _0x40b8 = [
     "\x20[\x20RAM\x20]\x20:\x20",
     "error",
