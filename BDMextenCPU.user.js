@@ -2,8 +2,8 @@
 // @name         BDMextenCPU
 // @namespace    https://gist.github.com/missmiss5
 // @homepage     https://github.com/missmiss5/AWScript
-// @downloadURL  https://github.com/missmiss5/AWScript/raw/main/MiningTimeOut.user.js
-// @updateURL    https://github.com/missmiss5/AWScript/raw/main/MiningTimeOut.user.js
+// @downloadURL  https://github.com/missmiss5/AWScript/raw/main/BDMextenCPU.user.js
+// @updateURL    https://github.com/missmiss5/AWScript/raw/main/BDMextenCPU.user.js
 // @version      0.1
 // @description  try to take over the world!
 // @author       turin#8657
