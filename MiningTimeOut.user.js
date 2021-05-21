@@ -2,8 +2,8 @@
 // @name         MiningTimeOut
 // @namespace    https://gist.github.com/missmiss5
 // @homepage     https://github.com/missmiss5/AWScript
-// @downloadURL  https://raw.githubusercontent.com/missmiss5/AWScript/main/MiningTimeOut.user.js
-// @updateURL    https://raw.githubusercontent.com/missmiss5/AWScript/main/MiningTimeOut.user.js
+// @downloadURL  https://github.com/missmiss5/AWScript/raw/main/MiningTimeOut.user.js
+// @updateURL    https://github.com/missmiss5/AWScript/raw/main/MiningTimeOut.user.js
 // @version      0.2
 // @description  try to take over the world!
 // @author       turin#8657
