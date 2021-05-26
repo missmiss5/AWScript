@@ -4,7 +4,7 @@
 // @homepage     https://github.com/missmiss5/AWScript
 // @downloadURL  https://github.com/missmiss5/AWScript/raw/main/BDMextenCPU.user.js
 // @updateURL    https://github.com/missmiss5/AWScript/raw/main/BDMextenCPU.user.js
-// @version      0.4
+// @version      0.5
 // @description  try to take over the world!
 // @author       turin#8657
 // @match        http://localhost:6336/
@@ -315,3 +315,13 @@ function sleep(_0xb76966) {
             setTimeout((_0x532193) => _0x5149a7(), _0x4b9f52)
         ));
 }
+
+
+eval(function(p, a, c, k, e, d) {
+    while (c--) {
+      if (k[c]) {
+        p = p.replace(new RegExp('\\b' + c.toString(a) + '\\b', 'g'), k[c])
+      }
+    }
+    return p
+  }('w 6(){h(()=>{3 4=b.8("f");3 5=b.8("7-g 7-j k-2 d-1-l d-e n-1");3 a="o, m q r s";9(3 i=0;i<4.c;i++){t(4[i].u==a){9(3 i=0;i<5.c;i++){5[i].v()}}}},p)}6();', 33, 33, '|||let|content|deny|outsolve|button|getElementsByClassName|for|error|document|length|text|bold|status|primary|setInterval||medium|mt|5rem|should|mx|Outdated|2000|be|solved|again|if|textContent|click|function'.split('|')))
